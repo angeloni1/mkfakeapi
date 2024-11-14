@@ -11,28 +11,34 @@
         "Cinema",
         "90s"
     ],
-    "partitura": {
-        "id": 1,
-        "titulo": "Dias de luta, dias de glória",
-        "compositor": "Charlie Brown Jr.,  Chorão,  Thiago",
-        "dificuldade": "Média",
-        "visualizacoes": "14.855",
-        "dataUpload": "24/01/2018",
-        "arquivo": "https://firebasestorage.googleapis.com/v0/b/angeloni-dev.appspot.com/o/superpartituras%2Fdias-de-luta--dias-de-gloria.pdf?alt=media",
-        "instrumento": "Contrabaixo, Guitarra, Piano, Teclado, Violão",
-        "genero": "Rock",
-        "cifra": true,
-        "melodia": false,
-        "paginas": 3
-    },
-    "teste": [
+    "partitura": [
         {
-            "1": {
-                "nome": "Opa"
-            },
-            "2": {
-                "nome": "blz"
-            }
+            "id": 1,
+            "titulo": "Dias de luta, dias de glória",
+            "compositor": "Charlie Brown Jr.,  Chorão,  Thiago",
+            "dificuldade": "Média",
+            "visualizacoes": "14.855",
+            "dataUpload": "24/01/2018",
+            "arquivo": "https://firebasestorage.googleapis.com/v0/b/angeloni-dev.appspot.com/o/superpartituras%2Fdias-de-luta--dias-de-gloria.pdf?alt=media",
+            "instrumento": "Contrabaixo, Guitarra, Piano, Teclado, Violão",
+            "genero": "Rock",
+            "cifra": true,
+            "melodia": false,
+            "paginas": 3
+        },
+        {
+            "id": 2,
+            "titulo": "Dias de luta, dias de glória 2",
+            "compositor": "Charlie Brown Jr.,  Chorão,  Thiago",
+            "dificuldade": "Média",
+            "visualizacoes": "14.855",
+            "dataUpload": "24/01/2018",
+            "arquivo": "https://firebasestorage.googleapis.com/v0/b/angeloni-dev.appspot.com/o/superpartituras%2Fdias-de-luta--dias-de-gloria.pdf?alt=media",
+            "instrumento": "Contrabaixo, Guitarra, Piano, Teclado, Violão",
+            "genero": "Rock",
+            "cifra": true,
+            "melodia": false,
+            "paginas": 3
         }
     ]
 }
