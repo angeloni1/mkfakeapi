@@ -19,10 +19,20 @@
         "visualizacoes": "14.855",
         "dataUpload": "24/01/2018",
         "arquivo": "https://firebasestorage.googleapis.com/v0/b/angeloni-dev.appspot.com/o/superpartituras%2Fdias-de-luta--dias-de-gloria.pdf?alt=media",
-        "instrumento" : "Contrabaixo, Guitarra, Piano, Teclado, Violão",
-        "genero" : "Rock",
+        "instrumento": "Contrabaixo, Guitarra, Piano, Teclado, Violão",
+        "genero": "Rock",
         "cifra": true,
         "melodia": false,
         "paginas": 3
-    }
+    },
+    "teste": [
+        {
+            "id": 1,
+            "nome": "Opa"
+        },
+        {
+            "id": 2,
+            "nome": "blz"
+        }
+    ]
 }
