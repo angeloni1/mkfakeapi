@@ -27,12 +27,12 @@
     },
     "teste": [
         {
-            "id": 1,
-            "nome": "Opa"
-        },
-        {
-            "id": 2,
-            "nome": "blz"
+            "1": {
+                "nome": "Opa"
+            },
+            "2": {
+                "nome": "blz"
+            }
         }
     ]
 }
