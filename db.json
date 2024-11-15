@@ -20,7 +20,7 @@
             "visualizacoes": "11.680",
             "dataUpload": "04/12/2015",
             "arquivo": "https://firebasestorage.googleapis.com/v0/b/angeloni-dev.appspot.com/o/superpartituras%2F%5Bsuperpartituras.com.br%5D-jingle-bells-rock.pdf?alt=media",
-            "instrumento":  "Violão",
+            "instrumento": "Violão",
             "genero": "Rock",
             "cifra": true,
             "melodia": true,
@@ -39,6 +39,56 @@
             "cifra": true,
             "melodia": false,
             "paginas": 3
+        }
+    ],
+    "playlist": [
+        {
+            "id": 1,
+            "titulo": "Rock",
+            "total": 15,
+            "cover": "https://www.superpartituras.com.br/Content/playlists/playlist.jpg",
+            "partituras": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Relaxing",
+            "total": 8,
+            "cover": "https://www.superpartituras.com.br/Content/playlists/playlist.jpg",
+            "partituras": [
+                3,
+                4,
+                8,
+                9
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Natal",
+            "total": 9,
+            "cover": "https://www.superpartituras.com.br/Content/playlists/playlist.jpg",
+            "partituras": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "Piano",
+            "total": 23,
+            "cover": "https://www.superpartituras.com.br/Content/playlists/playlist.jpg",
+            "partituras": [
+                1,
+                2,
+                3,
+                4
+            ]
         }
     ]
 }
