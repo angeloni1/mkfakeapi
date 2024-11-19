@@ -7,12 +7,6 @@
         "instrumentos": [
             "Flauta",
             "Piano"
-        ],
-        "dificuldade": "Fácil",
-        "favorita": false,
-        "playlist": false,
-        "cifra": true,
-        "melodia": true,
-        "premium": true
+        ]
     }
 ]
