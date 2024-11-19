@@ -3,10 +3,6 @@
     "image": "https://www.superpartituras.com/Content/demonstracoes/jingle-bells.jpg",
     "titulo": "Jingle Bells",
     "compositor": "Desconhecido",
-    "instrumentos": [
-        "Flauta",
-        "Piano"
-    ],
-    "dificuldade": "Fácil",
+    "dificuldade": "easy",
     "premium": true
 }

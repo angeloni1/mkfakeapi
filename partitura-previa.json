@@ -1,16 +1,18 @@
-{
-    "id": 1,
-    "image": "https://www.superpartituras.com/Content/demonstracoes/jingle-bells.jpg",
-    "titulo": "Jingle Bells",
-    "compositor": "Desconhecido",
-    "instrumentos": [
-        "Flauta",
-        "Piano"
-    ],
-    "dificuldade": "Fácil",
-    "favorita": false,
-    "playlist": false,
-    "cifra": true,
-    "melodia": true,
-    "premium": true
-}
+[
+    {
+        "id": 1,
+        "image": "https://www.superpartituras.com/Content/demonstracoes/jingle-bells.jpg",
+        "titulo": "Jingle Bells",
+        "compositor": "Desconhecido",
+        "instrumentos": [
+            "Flauta",
+            "Piano"
+        ],
+        "dificuldade": "Fácil",
+        "favorita": false,
+        "playlist": false,
+        "cifra": true,
+        "melodia": true,
+        "premium": true
+    }
+]

@@ -132,5 +132,67 @@
                 4
             ]
         }
+    ],
+    "playlistDetail": [
+        {
+            "id": 1,
+            "titulo" : "Rock",
+            "partituras" : [
+                {
+                    "id": 1,
+                    "image": "https://www.superpartituras.com/Content/demonstracoes/jingle-bells.jpg",
+                    "titulo": "Jingle Bells",
+                    "compositor": "Desconhecido",
+                    "instrumentos": [
+                        "Flauta",
+                        "Piano"
+                    ],
+                    "dificuldade": "Fácil",
+                    "favorita": false,
+                    "playlist": false,
+                    "cifra": true,
+                    "melodia": true,
+                    "premium": true
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo" : "Relaxing",
+            "partituras" : [
+                {
+                    "id": 2,
+                    "image": "https://www.superpartituras.com/Content/demonstracoes/jingle-bells.jpg",
+                    "titulo": "Dias de luta, dias de glória",
+                    "compositor": "Charlie Brown Jr.,  Chorão,  Thiago",
+                    "dificuldade": "Média",
+                    "instrumentos": [
+                        "Flauta",
+                        "Piano"
+                    ],
+                    "favorita": false,
+                    "playlist": false,
+                    "cifra": true,
+                    "melodia": true,
+                    "premium": true
+                },
+                {
+                    "id": 1,
+                    "image": "https://www.superpartituras.com/Content/demonstracoes/jingle-bells.jpg",
+                    "titulo": "Jingle Bells",
+                    "compositor": "Desconhecido",
+                    "instrumentos": [
+                        "Flauta",
+                        "Piano"
+                    ],
+                    "dificuldade": "Fácil",
+                    "favorita": false,
+                    "playlist": false,
+                    "cifra": true,
+                    "melodia": true,
+                    "premium": true
+                }
+            ]
+        }
     ]
 }
