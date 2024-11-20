@@ -12,20 +12,34 @@
         "90s"
     ],
     "partitura": [
-        {
+       {
             "id": 1,
             "titulo": "Jingle Bells Rock",
             "compositor": "Jim Boothe, Joe Beat",
             "dificuldade": "Média",
-            "visualizacoes": "11.680"
+            "visualizacoes": "11.680",
+            "dataUpload": "04/12/2015",
+            "arquivo": "https://firebasestorage.googleapis.com/v0/b/angeloni-dev.appspot.com/o/superpartituras%2F%5Bsuperpartituras.com.br%5D-jingle-bells-rock.pdf?alt=media",
+            "instrumento": "Violão",
+            "genero": "Rock",
+            "cifra": true,
+            "melodia": true,
+            "paginas": 2
         },
         {
             "id": 2,
             "titulo": "Dias de luta, dias de glória",
             "compositor": "Charlie Brown Jr.,  Chorão,  Thiago",
             "dificuldade": "Média",
-            "visualizacoes": "14.855" 
-               },
+            "visualizacoes": "14.855",
+            "dataUpload": "24/01/2018",
+            "arquivo": "https://firebasestorage.googleapis.com/v0/b/angeloni-dev.appspot.com/o/superpartituras%2Fdias-de-luta--dias-de-gloria.pdf?alt=media",
+            "instrumento": "Contrabaixo, Guitarra, Piano, Teclado, Violão",
+            "genero": "Rock",
+            "cifra": true,
+            "melodia": false,
+            "paginas": 3
+        },
         {
             "id": 3,
             "titulo": "Mozart Violin Concerto n.5, kv. 219",
