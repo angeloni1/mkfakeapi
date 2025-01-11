@@ -14,6 +14,7 @@
     "partitura": [
        {
             "id": 1,
+            "image": "https://www.superpartituras.com/Content/demonstracoes/jingle-bells.jpg",
             "titulo": "Jingle Bells Rock",
             "compositor": "Jim Boothe, Joe Beat",
             "dificuldade": "Média",
@@ -28,6 +29,7 @@
         },
         {
             "id": 2,
+            "image": "https://www.superpartituras.com/Content/demonstracoes/dias-de-luta--dias-de-gloria.jpg",
             "titulo": "Dias de luta, dias de glória",
             "compositor": "Charlie Brown Jr.,  Chorão,  Thiago",
             "dificuldade": "Média",
@@ -42,6 +44,7 @@
         },
         {
             "id": 3,
+            "image": "https://www.superpartituras.com/Content/demonstracoes/mozart-violin-concerto-n-5--kv--219.jpg",
             "titulo": "Mozart Violin Concerto n.5, kv. 219",
             "compositor": "Wolfgang Amadeus Mozart",
             "dificuldade": "Muito Difícil",
@@ -56,6 +59,7 @@
         },
         {
             "id": 4,
+            "image": "https://www.superpartituras.com/Content/demonstracoes/mozart-violin-concerto-n-5--kv--219.jpg",
             "titulo": "Mozart Violin Concerto n.5, kv. 219",
             "compositor": "Wolfgang Amadeus Mozart",
             "dificuldade": "Muito Difícil",
@@ -70,6 +74,7 @@
         },
         {
             "id": 5,
+            "image": "https://www.superpartituras.com/Content/demonstracoes/mozart-violin-concerto-n-5--kv--219.jpg",
             "titulo": "Mozart Violin Concerto n.5, kv. 219",
             "compositor": "Wolfgang Amadeus Mozart",
             "dificuldade": "Muito Difícil",
